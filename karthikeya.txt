@@ -1,1 +1,3 @@
-karthikeya is the only person is the dumbest one in the whole IITGN community
+karthikeya is the only person is the dumbest one in the whole IITGN community.
+karthikeya.txt is the file storing information about the dumb person.
+
